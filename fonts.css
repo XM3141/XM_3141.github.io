@@ -1,0 +1,9 @@
+/* 自定义字体引入 */
+@font-face {
+    font-family: Jengotan_PERSONAL_USE_ONLY;
+    src: url(./fonts/DS-Digital-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: SCRIPTBL;
+    src: url(./fonts/DS-Digital-Bold.ttf) format("truetype");
+}
